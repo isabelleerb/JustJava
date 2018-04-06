@@ -1,0 +1,12 @@
+<resources xmlns:xliff="urn:oasis:name:tc:xliff:document:1.2">
+    <string name="app_name">JJ2</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- THank you message for the order summmary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+</resources>
